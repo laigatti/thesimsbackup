@@ -1,0 +1,2 @@
+set folder=/PATH/TO/YOUR/REPOSITORY/DIRECTORY
+set theSimsFolder=/PATH/TO/THE/SIMS
