@@ -2,5 +2,5 @@
 
 set /p dataAtual=<data.txt
 git add saves\
-git commit -m "%dataAtual"
+git commit -m "%dataAtual%"
 git push

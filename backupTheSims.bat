@@ -1,5 +1,8 @@
 @ECHO OFF
 
+ECHO moving to repository folder
+cd %repositoryFolder%
+
 ECHO Setting enviroment variables
 CALL ambientes.bat
 

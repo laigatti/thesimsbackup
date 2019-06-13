@@ -1,6 +1,6 @@
 @echo off
 CALL  ambientes.bat
-ECHO  teste
-echo  %folder%
+
+echo  copying from %theSimsFolder% to %folder%
 REM   run copy 
 XCOPY %theSimsFolder% %folder% /Y
