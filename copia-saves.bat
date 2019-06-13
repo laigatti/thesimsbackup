@@ -1,1 +1,6 @@
-xcopy "F:\Users\Lucas\Documents\Electronic Arts\The Sims 4\saves" .\saves /Y
+@echo off
+CALL  ambientes.bat
+ECHO  teste
+echo  %folder%
+REM   run copy 
+XCOPY %theSimsFolder% %folder% /Y

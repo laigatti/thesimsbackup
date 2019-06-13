@@ -1,2 +1,2 @@
-set folder=/PATH/TO/YOUR/REPOSITORY/DIRECTORY
-set theSimsFolder=/PATH/TO/THE/SIMS
+set folder="F:\Users\Lucas\Documents\thesims-save"
+set theSimsFolder="F:\Users\Lucas\Documents\Electronic Arts\The Sims 4\saves"
