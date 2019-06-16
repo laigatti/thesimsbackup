@@ -3,6 +3,8 @@
 ECHO moving to repository folder
 cd %repositoryFolder%
 
+git pull
+
 ECHO Setting enviroment variables
 CALL ambientes.bat
 
