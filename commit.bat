@@ -1,3 +1,4 @@
+chcp 1252
 @echo off
 
 set /p dataAtual=<data.txt

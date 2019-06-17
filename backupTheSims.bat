@@ -1,3 +1,4 @@
+chcp 1252
 @ECHO OFF
 
 ECHO moving to repository folder
